@@ -1,4 +1,4 @@
-Add-Content requirements.txt "pytest"
-Add-Content requirements.txt "pytest-cov"
-Add-Content requirements.txt "flake8"
-Add-Content requirements.txt "black"
+pytest
+pytest-cov
+flake8
+black
